@@ -80,7 +80,7 @@ simple-rag-application/
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/simple-rag-application.git
+git clone https://github.com/smjvusa/simple-rag-application.git
 cd simple-rag-application
 ```
 
